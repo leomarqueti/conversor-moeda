@@ -1,5 +1,11 @@
 # conversor-moeda
 
+
+
+Uploading Gravando 2024-12-11 195117.mp4…
+
+
+
 ## Descrição
 Este é um conversor de moedas simples desenvolvido em Python, que utiliza a [ExchangeRate API](https://www.exchangerate-api.com/) para buscar taxas de câmbio em tempo real. O programa permite:
 - Converter valores de uma moeda base para real (BRL).
